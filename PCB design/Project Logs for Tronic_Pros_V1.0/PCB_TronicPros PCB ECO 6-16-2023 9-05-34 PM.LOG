@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=5V Pin=C1-1
+Removed Pin From Net: NetName=GND Pin=C1-2
+Change Component Designator: OldDesignator=ATmega NewDesignator=ATmega328PU
+Change Component Designator: OldDesignator=LM117 NewDesignator=VR
+Added Component: Designator=C1(FP-RAD-TH-D_5_0_5-L_11_1-MFG)
+Add component (AddParameter): Name = "Capacitance"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Construction"; Value = "RADIAL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "11mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.472inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Diameter"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "2.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead/Base Style"; Value = "Straight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Leakage Current"; Value = "3uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "11mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Life (Hours)"; Value = "1000Hour"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Ammo Pack"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarity"; Value = "Polar"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = "39mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "NHG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "50V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=5V Pin=C1-2

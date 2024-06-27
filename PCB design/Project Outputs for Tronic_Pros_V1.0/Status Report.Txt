@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Tronic_Pros_V1.0.PrjPcb]
+   Generated File[PCB_TronicPros.TXT]
+   Generated File[PCB_TronicPros.LDP]
+   Generated File[PCB_TronicPros.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 12:57:47 PM On 6/21/2023

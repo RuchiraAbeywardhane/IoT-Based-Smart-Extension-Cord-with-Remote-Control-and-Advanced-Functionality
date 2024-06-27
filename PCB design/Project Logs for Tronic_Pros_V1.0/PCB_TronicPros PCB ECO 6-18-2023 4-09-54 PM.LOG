@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=Rx Pin=ATmega328PU-4
+Removed Pin From Net: NetName=Tx Pin=ATmega328PU-5
+Added Pin To Net: NetName=Tx Pin=ATmega328PU-4
+Added Pin To Net: NetName=Rx Pin=ATmega328PU-5

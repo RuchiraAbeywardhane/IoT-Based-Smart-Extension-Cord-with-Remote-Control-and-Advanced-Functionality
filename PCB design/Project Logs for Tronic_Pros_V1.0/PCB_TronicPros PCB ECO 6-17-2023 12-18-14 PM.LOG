@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=ESP_Con NewDesignator=ESP
+Change Net Name : Old Net Name=NetESP_Con_2 New Net Name=NetESP_2
+Change Net Name : Old Net Name=NetESP_Con_3 New Net Name=NetESP_3
+Added Member To Class: ClassName=Schematic_TronicPros Member=Component TSOP TSOP1838
