@@ -56,6 +56,7 @@
 ## PCB Design
 
 ![pcb](Images/PCB.png)
+<img src="Images/PCB.png" alt="PCB" width="500"/>
 
 ## PCB 
 
