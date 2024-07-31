@@ -59,11 +59,11 @@
 
 ## PCB 
 
-![PCB](https://github.com/RuchiraAbeywardhane/Smarty-Plug/assets/106037441/6e54b8a1-ab34-4b89-92c8-6ff2f9dd6a27)
+![PCB](Images/PCB_Real.png)
 
 ## Solidworks Design
 
-![solidworks](https://github.com/RuchiraAbeywardhane/Smarty-Plug/assets/106037441/df30b340-38dd-4b4b-93a3-ee9717be19d6)
+![solidworks](Images/SolidWorkDesign.png)
 
 ## Team
 
