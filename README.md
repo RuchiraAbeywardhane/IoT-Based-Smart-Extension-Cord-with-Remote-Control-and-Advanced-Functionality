@@ -55,16 +55,13 @@
 
 ## PCB Design
 
-![pcb](Images/PCB.png)
 <img src="Images/PCB.png" alt="PCB" width="500"/>
 
 ## PCB 
-
-![PCB](Images/PCB_Real.png)
+<img src="Images/PCB_Real.png" alt="PCB" width="500"/>
 
 ## Solidworks Design
-
-![solidworks](Images/SolidWorkDesign.png)
+<img src="Images/SolidWorkDesign.png" alt="PCB" width="500"/>
 
 ## Team
 
