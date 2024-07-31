@@ -55,7 +55,7 @@
 
 ## PCB Design
 
-![pcb](https://github.com/RuchiraAbeywardhane/Smarty-Plug/assets/106037441/c4067350-08f6-48c0-a987-197e09814b93)
+![pcb](Images/PCB.png)
 
 ## PCB 
 
