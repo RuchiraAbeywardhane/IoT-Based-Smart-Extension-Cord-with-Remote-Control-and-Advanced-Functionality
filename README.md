@@ -74,4 +74,4 @@
  
  * This project is licensed under the MIT License. See the [LICENSE](MIT-LICENSE.txt) file for details.
 
-## For More Information - [Project Report](https://github.com/LasithaAmarasinghe/Smarty-Plug/blob/main/Project%20Report.pdf)
+## For More Information - [Project Report](https://github.com/RuchiraAbeywardhane/Smarty-Plug/blob/main/Project%20Report.pdf)
