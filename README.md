@@ -65,8 +65,10 @@
 
 ## Team
 
-![image](https://github.com/RuchiraAbeywardhane/Smarty-Plug/assets/106037441/43b7ec8f-bb90-44a0-9b2e-6d6b2e26eded)
-![image](https://github.com/RuchiraAbeywardhane/Smarty-Plug/assets/106037441/9e15a8b8-1c72-4421-833e-c6e7347d39e1)
+* Hasitha Gallella
+* Ruchira Abeywardhane
+* Lasitha Amarasinghe
+* Sahan Abeyrathna
 
 ## License
  
